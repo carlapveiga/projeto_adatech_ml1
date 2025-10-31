@@ -1,6 +1,10 @@
 # projeto_adatech_ml1
 Projeto para conclusão do curso da AdaTech - Machine Learning 1 - Prof Maurício Sobrinho
 
+## Base do projeto 
+Professor, nao consegui salvar a base no github nem no zip por email. Por isso, salvei nesse link do google drive.
+https://drive.google.com/file/d/1UZp55bwJmrtD5VFUg7ZsqyIzsGeG-N0q/view?usp=share_link
+
 ## Storytelling do projeto
 
 A base escolhida para o projeto é a "Credit Card Transactions Fraud Detection Dataset" do Kaggle, podendo ser acessada através do link https://www.kaggle.com/datasets/kartik2112/fraud-detection/data.
